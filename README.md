@@ -6,5 +6,6 @@ Apps:
 🔌 [Is it down?](https://isitdown.vercel.app)
 
 Life:
+🌐 [Website](https://connoradams.co.uk)
 🎓 [Study with Connor](https://studywith.connoradams.co.uk)
 🚗 [The Pengest Khans](https://thepengestkhans.co.uk)
