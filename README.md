@@ -12,5 +12,5 @@ Life:
 
 Config:
 🍺 [brew](https://github.com/connorads/brew-packages)
-🅰️ [asdf](https://github.com/connorads/asdf)
+🪓 [rtx](https://github.com/connorads/rtx)
 🍫 [choco](https://github.com/connorads/choco-packages)
