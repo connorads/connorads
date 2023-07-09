@@ -11,6 +11,6 @@ Life:
 🚗 [The Pengest Khans](https://thepengestkhans.co.uk)
 
 Config:
-🍺 [brew](https://github.com/connorads/brew-packages)
+🟢 [dotfiles](https://github.com/connorads/dotfiles)
 🪓 [rtx](https://github.com/connorads/rtx)
 🍫 [choco](https://github.com/connorads/choco-packages)
