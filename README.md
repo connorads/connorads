@@ -12,5 +12,5 @@ Life:
 
 Config:
 🟢 [dotfiles](https://github.com/connorads/dotfiles)
-🪓 [rtx](https://github.com/connorads/rtx)
+🪓 [mise](https://github.com/connorads/mise)
 🍫 [choco](https://github.com/connorads/choco-packages)
