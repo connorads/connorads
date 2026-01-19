@@ -1,10 +1,8 @@
-Apps:
-🔒 [Lockbot](https://lockbot.app)
-🏍 [RideIn - Motorbike Parking LDN](https://play.google.com/store/apps/details?id=com.motorbikeparking.app)
-🦶 [Meet Kicker](https://chrome.google.com/webstore/detail/meet-kicker-%F0%9F%A6%B6/aonhapalnnnjlonafnammcbnafmafmpg)
-🏆 [Stack Overflow Fanatic](https://github.com/connorads/stackoverflow-fanatic)
-🔌 [Is it down?](https://isitdown.vercel.app)
-⏰ [Enya Timer](https://enya-timer.vercel.app)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
+  <img alt="3D Contributions" src="./profile-3d-contrib/profile-green.svg">
+</picture>
 
 Life:
 🌐 [Website](https://connoradams.co.uk)
