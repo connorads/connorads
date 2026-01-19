@@ -1,0 +1,27 @@
+[
+  {
+    "type": "normal",
+    "fileName": "profile-ocean-light.svg",
+    "backgroundColor": "#f0f9ff",
+    "foregroundColor": "#0c4a6e",
+    "strongColor": "#0284c7",
+    "weakColor": "#7dd3fc",
+    "radarColor": "#0ea5e9",
+    "growingAnimation": true,
+    "contribColors": ["#e0f2fe", "#7dd3fc", "#38bdf8", "#0ea5e9", "#0284c7"]
+  },
+  {
+    "type": "rainbow",
+    "fileName": "profile-ocean-dark.svg",
+    "backgroundColor": "#0c1222",
+    "foregroundColor": "#e0f2fe",
+    "strongColor": "#22d3ee",
+    "weakColor": "#0ea5e9",
+    "radarColor": "#22d3ee",
+    "growingAnimation": true,
+    "saturation": "70%",
+    "contribLightness": ["15%", "35%", "50%", "65%", "80%"],
+    "duration": "15s",
+    "hueRatio": -3
+  }
+]

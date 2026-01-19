@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
-  <img alt="3D Contributions" src="./profile-3d-contrib/profile-green.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-ocean-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-ocean-light.svg">
+  <img alt="3D Contributions" src="./profile-3d-contrib/profile-ocean-light.svg">
 </picture>
 
 Life:
